@@ -1,6 +1,6 @@
-## Welcome to Samuel Du's Home Page
+ ## Welcome to Samuel Du's Home Page
 
-[Stochastic Calculus: ](./stochastic.pdf)
+[Stochastic Calculus: ](./stochastic.pdf) Shreve's 1997 version
 
 You can use the [editor on GitHub](https://github.com/samueldu2/samueldu2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

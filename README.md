@@ -1,4 +1,4 @@
- ## Welcome to Samuel Du's Home Page
+ ## Welcome to Samuel Du's GitHub Page
 
 [Stochastic Calculus: ](./stochastic.pdf) Shreve's 1997 version
 

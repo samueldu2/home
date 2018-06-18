@@ -1,6 +1,6 @@
 ## Welcome to Samuel Du's Home Page
 
-[Stochastic Calculus: ](https://github.com/samueldu2/samueldu2.github.io/blob/master/stochastic.pdf)
+[Stochastic Calculus: ](./stochastic.pdf)
 
 You can use the [editor on GitHub](https://github.com/samueldu2/samueldu2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
